@@ -1,0 +1,9 @@
+{
+    "policyId": "6394b7c94d47d97761ca8007e3498eef419cddfbea088d1eda20bd12",
+    "name": "ROBO",
+    "symbol": "ROBO",
+    "website": "https://roborobo.gg",
+    "description": "$ROBO is a Cardano Native Token and it is the native currency for ROBOROBO",
+    "totalSupply": 100000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000]
+}
